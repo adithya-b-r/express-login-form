@@ -20,7 +20,7 @@ Make sure you have Node.js installed. You can download it [here](https://nodejs.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/express-login-form.git
+    git clone https://github.com/adithya-b-r/express-login-form.git
     ```
 
 2. Navigate into the project directory:
